@@ -1,7 +1,69 @@
-### Make `Professional Setup` file for Software
+## Make `Professional Setup` file for Software
   - [ Part 01 ](https://www.youtube.com/watch?v=sjUcvU3GFC4&t=174s)
   - [ Part 02 ](https://www.youtube.com/watch?v=spacjduPMkE&t=146s)
   
+-------
+
+## Designing `GUI`
+
+- To center screen	
+    
+          Propertise > StartPosition > CenterScreen
+
+
+- Remove border(including Close, Resize, Minimize)	
+  
+          Propertise > FormBorderStyle > None
+
+- To add Picture		
+  
+          Toolbox > PictureBox(kone podi kotuwen)
+          
+- To add Picture to full screen	
+
+          Propertise > Dock > Fill  (can add label on it)
+
+- To add Table	
+    
+          Toolbox > GridView(kone podi kotuwen)
+
+- To design table	
+
+          Propertise > Themestyle
+
+- To add progress bar	
+
+          Toolbox > Prograssbar
+
+- To add button text color	
+
+          Propertise > ForeColor
+          
+- To add button background color	
+
+          Propertise > BackColor
+          
+- button look (3D / flat)		
+
+          Propertise > FlatStyle
+          
+- button color for border, push, release	
+
+          Propertise > FlatAppearance
+
+- Label background(to transparent)	
+
+          Propertise > BackColor > Web > Transparent	
+
+- To add color range	
+
+          Propertise > FillColor
+			  	Propertise > FillColor2
+
+-------
+  
+## With `Arduino`
+
 ### [ Chapter 01 ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_01/Form1.cs)
   
 ![Chapter 01](https://user-images.githubusercontent.com/110303643/200033129-4567b5fd-c028-41b3-9cf9-ac8628a35af2.PNG)
