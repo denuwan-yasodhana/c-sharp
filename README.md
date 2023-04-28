@@ -9,12 +9,11 @@
 - To center screen	
     
           Propertise > StartPosition > CenterScreen
-
-
+	  
 - Remove border(including Close, Resize, Minimize)	
   
-          Propertise > FormBorderStyle > None
-
+          Propertise > FormBorderStyle > None	  
+---
 - To add Picture		
   
           Toolbox > PictureBox(kone podi kotuwen)
@@ -22,7 +21,7 @@
 - To add Picture to full screen	
 
           Propertise > Dock > Fill  (can add label on it)
-
+---
 - To add Table	
     
           Toolbox > GridView(kone podi kotuwen)
@@ -30,11 +29,19 @@
 - To design table	
 
           Propertise > Themestyle
-
+	  
+- Add columns to table
+	
+	  GridView(kone podi kotuwen) > Add column
+	  
+- To design columns	
+	
+	  Propertise > HeaderStyle  
+---
 - To add progress bar	
 
           Toolbox > Prograssbar
-
+---
 - To add button text color	
 
           Propertise > ForeColor
@@ -50,15 +57,15 @@
 - button color for border, push, release	
 
           Propertise > FlatAppearance
-
+---
 - Label background(to transparent)	
 
           Propertise > BackColor > Web > Transparent	
-
+---
 - To add color range	
 
           Propertise > FillColor
-			  	Propertise > FillColor2
+	  Propertise > FillColor2
 
 -------
   
