@@ -1,6 +1,10 @@
 ## Basic Theory
 
-	- ddc
+	- float, double varible 
+	- Constant variable
+	- Get user input
+	- Convert data types
+	- Maths function
   
 
 ## Designing `GUI`
