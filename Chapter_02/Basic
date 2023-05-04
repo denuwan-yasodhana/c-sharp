@@ -23,3 +23,19 @@ Math.Min(5, 10);        -       to find the lowest value
 Math.Sqrt(64);          -       returns the square root of x
 Math.Abs(-4.7);         -       returns the absolute (positive) value of x
 Math.Round(9.99);       -       ounds a number to the nearest whole number
+
+string txt = "Hello World";
+Console.WriteLine("The length of the txt string is: " + txt.Length);
+Console.WriteLine(txt.ToUpper());   // Outputs "HELLO WORLD"
+Console.WriteLine(txt.ToLower());   // Outputs "hello world"
+
+Console.WriteLine(txt[1]);  // Outputs "H"
+Console.WriteLine(txt.IndexOf("e"));  // Outputs "1"
+Console.WriteLine(txt.Substring(6););  // Outputs "World"
+
+string firstName = "John ";
+string lastName = "Doe";
+string name = string.Concat(firstName, lastName);                         //  John Doe
+Console.WriteLine(name);
+string name = $"My full name is: {firstName} {lastName}";                 //  My full name is John Doe
+Console.WriteLine(name);
