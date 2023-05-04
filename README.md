@@ -1,4 +1,4 @@
-## Basic Theory
+## [ Basic Theory ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_02/Basic)
 
 	- float, double varible 
 	- Constant variable
