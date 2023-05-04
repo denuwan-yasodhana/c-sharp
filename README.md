@@ -1,8 +1,7 @@
-## Make `Professional Setup` file for Software
-  - [ Part 01 ](https://www.youtube.com/watch?v=sjUcvU3GFC4&t=174s)
-  - [ Part 02 ](https://www.youtube.com/watch?v=spacjduPMkE&t=146s)
+## Basic Theory
+
+	- ddc
   
--------
 
 ## Designing `GUI`
 
@@ -85,5 +84,8 @@
 - Do some task when "Enter-key Press"	
 - Close connection			
 
+-------
 
-
+## Make `Professional Setup` file for Software
+  - [ Part 01 ](https://www.youtube.com/watch?v=sjUcvU3GFC4&t=174s)
+  - [ Part 02 ](https://www.youtube.com/watch?v=spacjduPMkE&t=146s)
