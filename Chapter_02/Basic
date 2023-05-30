@@ -52,3 +52,20 @@ foreach (string i in cars)
   Console.WriteLine(i);                                                    // Volvo, BMW, Ford, Mazda
 } 
 
+Array.Sort(cars);                                                          // Make alphabetically order or an ascending order
+int[] myNumbers = {5, 1, 8, 9};
+myNumbers.Max();                                                            // largest value
+myNumbers.Min();                                                            // smallest value
+myNumbers.Sum();                                                            // sum of myNumbers
+
+int[,] numbers = { {1, 4, 2}, {3, 6, 8} };
+Console.WriteLine(numbers[0, 2]);                                           // 2
+
+for (int i = 0; i < numbers.GetLength(0); i++)                              // GetLength - how many times the loop should run
+{ 
+  for (int j = 0; j < numbers.GetLength(1); j++) 
+  { 
+    Console.WriteLine(numbers[i, j]);                                       // 1, 4, 2, 3, 6, 8
+  } 
+}
+
