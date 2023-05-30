@@ -10,6 +10,13 @@
 	- Get index of String
 	- Get subset from string
 	- Concatenate two strings
+	- Array
+	- Array loop
+	- Sort values in array
+	- Get max value in array
+	- Get min value in array
+	- Get sum of values in array
+	- Multi-dimentional arrays
   
 
 ## Designing `GUI`
