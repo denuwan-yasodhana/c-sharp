@@ -20,7 +20,7 @@
 
 ## Object Oriented Programming [OOP]
 - [ Encapsulation ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Encapsulation.md)
-- Polymorphism
+- [ Polymorphism / Overloading ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Polymorphism.md)
 - Inheritance
 - Abstract
 
