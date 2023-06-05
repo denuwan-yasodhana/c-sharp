@@ -17,7 +17,12 @@
 	- Get min value in array
 	- Get sum of values in array
 	- Multi-dimentional arrays
-  
+
+## Object Oriented Programming [OOP]
+- [ Encapsulation ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_01/Form1.cs)
+- Polymorphism
+- Inheritance
+- Abstract
 
 ## Designing `GUI`
 
