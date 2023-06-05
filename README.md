@@ -19,7 +19,7 @@
 	- Multi-dimentional arrays
 
 ## Object Oriented Programming [OOP]
-- [ Encapsulation ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_01/Form1.cs)
+- [ Encapsulation ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Encapsulation.md)
 - Polymorphism
 - Inheritance
 - Abstract
