@@ -1,4 +1,4 @@
-Here are some real-world examples where abstract OOP concepts are commonly used:
+Here are some real-world examples where Abstract OOP concepts are commonly used:
 
 01). Banking Systems: In a banking system, you can have an abstract class called Account with concrete subclasses like SavingsAccount and CheckingAccount. The abstract class can define common properties and methods such as accountNumber and withdraw(), while the subclasses can provide their own specific implementations.
 
