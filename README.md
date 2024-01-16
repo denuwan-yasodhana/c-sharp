@@ -27,7 +27,9 @@
 - [ Encapsulation ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Encapsulation.md)
 - [ Polymorphism / Overloading ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Polymorphism.md)
 - [ Inheritance ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Inheritance.md)
-	### Sealed class - class cannot be inherited. 
+
+  	Sealed class - class cannot be inherited.
+  
   		Ex: class MyClass ->  sealed class MyClass
 - [ Abstract ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Abstract.md)
   	- Can't create an instance (object)
