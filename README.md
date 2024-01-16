@@ -35,7 +35,7 @@
 
 ---
 
-- [ Abstract ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_03/Static.md)
+- [ Static Class ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_03/Static.md)
 	- Never creates an instance of the class
 	- They are accessed by the class name directly not by a class instance object.
 
