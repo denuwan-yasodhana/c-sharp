@@ -33,7 +33,11 @@
 	- They must be overridden in any non-abstract derived class.
 	- Static members can't be abstract.
 
+---
 
+- Static Class
+	- Never creates an instance of the class
+	- They are accessed by the class name directly not by a class instance object.
 
 ## Designing `GUI`
 
