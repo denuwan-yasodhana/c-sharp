@@ -1,4 +1,4 @@
-## [ Basic Theory ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_02/Basic)
+![image](https://github.com/denuwan-yasodhana/c-sharp/assets/110303643/8b6122a9-09e1-4bfe-a431-958d422ae077)## [ Basic Theory ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_02/Basic)
 
 	- float, double varible 
 	- Constant variable
@@ -28,6 +28,12 @@
 - [ Polymorphism / Overloading ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Polymorphism.md)
 - [ Inheritance ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Inheritance.md)
 - [ Abstract ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Abstract.md)
+  	- Can't create an instance (object)
+  	- But no function body 
+	- They must be overridden in any non-abstract derived class.
+	- Static members can't be abstract.
+
+
 
 ## Designing `GUI`
 
