@@ -27,7 +27,7 @@
 - [ Encapsulation ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Encapsulation.md)
 - [ Polymorphism / Overloading ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Polymorphism.md)
 - [ Inheritance ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Inheritance.md)
-- Abstract
+- [ Abstract ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Abstract.md)
 
 ## Designing `GUI`
 
