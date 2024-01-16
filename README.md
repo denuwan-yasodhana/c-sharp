@@ -18,6 +18,11 @@
 	- Get sum of values in array
 	- Multi-dimentional arrays
 
+ 	-- Public - Access is not restricted
+  	-- Private - Visible inside the current class, Access is restricted
+   	-- Protected - Visible inside current and derived class
+    -- Internal - Visible inside containing assembly
+
 ## Object Oriented Programming [OOP]
 - [ Encapsulation ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Encapsulation.md)
 - [ Polymorphism / Overloading ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/OOP/Polymorphism.md)
@@ -26,63 +31,63 @@
 
 ## Designing `GUI`
 
-- To center screen	
+- ### To center screen	
     
           Propertise > StartPosition > CenterScreen
 	  
-- Remove border(including Close, Resize, Minimize)	
+- ### Remove border(including Close, Resize, Minimize)	
   
           Propertise > FormBorderStyle > None	  
 ---
-- To add Picture		
+- ### To add Picture		
   
           Toolbox > PictureBox(kone podi kotuwen)
           
-- To add Picture to full screen	
+- ### To add Picture to full screen	
 
           Propertise > Dock > Fill  (can add label on it)
 ---
-- To add Table	
+- ### To add Table	
     
           Toolbox > GridView(kone podi kotuwen)
 
-- To design table	
+- ### To design table	
 
           Propertise > Themestyle
 	  
-- Add columns to table
+- ### Add columns to table
 	
 	  GridView(kone podi kotuwen) > Add column
 	  
-- To design columns	
+- ### To design columns	
 	
 	  Propertise > HeaderStyle  
 ---
-- To add progress bar	
+- ### To add progress bar	
 
           Toolbox > Prograssbar
 ---
-- To add button text color	
+- ### To add button text color	
 
           Propertise > ForeColor
           
-- To add button background color	
+- ### To add button background color	
 
           Propertise > BackColor
           
-- button look (3D / flat)		
+- ### button look (3D / flat)		
 
           Propertise > FlatStyle
           
-- button color for border, push, release	
+- ### button color for border, push, release	
 
           Propertise > FlatAppearance
 ---
-- Label background(to transparent)	
+- ### Label background(to transparent)	
 
           Propertise > BackColor > Web > Transparent	
 ---
-- To add color range	
+- ### To add color range	
 
           Propertise > FillColor
 	  Propertise > FillColor2
