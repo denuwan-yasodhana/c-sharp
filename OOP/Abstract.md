@@ -1,8 +1,3 @@
-    // Can't create an object
-    // No function body
-    // Must be overridden in any non-abstract derived class
-    // Static members can't be abstract
-
 
     namespace ConsoleApp
     {
