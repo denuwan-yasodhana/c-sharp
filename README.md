@@ -60,6 +60,7 @@
 ---
 
  - [ Write To File ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_03/writeToFile.md)
+ - [ Read the File ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_03/readToFile.md)
 
 
 ## Designing `GUI`
