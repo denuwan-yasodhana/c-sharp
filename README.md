@@ -1,4 +1,4 @@
-## [ Basic Theory ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_02/Basic)
+![image](https://github.com/denuwan-yasodhana/c-sharp/assets/110303643/8a10d9e3-50a5-4d37-b267-4a0b7d0773c2)## [ Basic Theory ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_02/Basic)
 
 	- float, double varible 
 	- Constant variable
@@ -53,6 +53,10 @@
 	- Parameterized Constructors
 	- Private Constructors
 	- Copy Constructors
+ - [ Interface ](https://github.com/denuwan-yasodhana/c-sharp/blob/main/Chapter_03/interface.md)
+   	- Different and diverse classes can implement the same interface.
+   	- Much like abstract classes.
+
 
  	
 
