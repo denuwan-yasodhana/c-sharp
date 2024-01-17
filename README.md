@@ -23,6 +23,7 @@
 	- Get sum of values in array
 	- Multi-dimentional arrays
 
+---
  	-- Public - Access is not restricted
   	-- Private - Visible inside the current class, Access is restricted
    	-- Protected - Visible inside current and derived class
